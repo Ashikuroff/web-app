@@ -1,4 +1,4 @@
-# Simple web application made by python streamit
+# Simple web application made by python streamlit
 
 # version -1 
 it will display only welcome page
